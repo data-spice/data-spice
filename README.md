@@ -20,7 +20,8 @@
 **Databases:** MySQL, 
 **Cloud:** Comming soon
 ---
-[!Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-spice)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-spice&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🌱 Current Focus
