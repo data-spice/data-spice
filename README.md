@@ -23,10 +23,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-spice&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-spice&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
