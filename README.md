@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=data-vic" alt="data-vic" />
+    <img src="https://github-profile-trophy.vercel.app/?username=data-spice" alt="data-spice" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- You can add your socials here if you want -->
+  <!-- Add your social links here if you want -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -106,13 +106,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-vic&show_icons=true&locale=en&layout=compact" alt="data-vic" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=data-spice&show_icons=true&locale=en&layout=compact" alt="data-spice" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-vic&show_icons=true&theme=dracula&locale=en" alt="data-vic" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=data-spice&show_icons=true&theme=dracula&locale=en" alt="data-spice" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-vic&" alt="data-vic" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=data-spice&" alt="data-spice" />
 </p>
