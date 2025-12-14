@@ -1,3 +1,5 @@
+change this from lastyear to current commits
+
 # 💫 About Me
 
 👋 Hi, I'm **Victor** — a **Computer Science student** and an aspiring **Data Engineer** passionate about transforming raw data into meaningful insights.  
@@ -35,8 +37,8 @@ I’m currently learning how to:
 
 ## 🌐 Socials
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:authkarimi1@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-with-vic)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:authkarimi1@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-with-vic)
+
 
 ---
 
@@ -60,9 +62,9 @@ I’m currently learning how to:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=data-spice&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
