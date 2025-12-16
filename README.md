@@ -50,10 +50,23 @@
 ---
 
 # 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=data-spice&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=data-spice&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
