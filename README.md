@@ -37,11 +37,10 @@ I’m currently learning how to:
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/data-with-vic) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/data-with-vic)  
+📧 [myvicgit@gmail.com](mailto:myvicgit@gmail.com)
 
 ---
-
-# 💻 Tech Stack
 
 # 💻 Tech Stack
 
@@ -54,22 +53,13 @@ I’m currently learning how to:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-
+![](https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=data-spice&theme=dark&hide_border=false)  
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=data-spice&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
