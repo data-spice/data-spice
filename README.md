@@ -4,7 +4,7 @@
 
 ⚙️ My journey is focused on **building efficient data pipelines**, **exploring cloud technologies**, and **learning how data drives impactful decisions**.
 
-📊 I enjoy creating **data visuals** that make complex ideas easy to understand and enjoyable to explore.
+📊 I enjoy creating **data visuals** that make complex ideas easy to understand and enjoyable to explore..
 
 ---
 
