@@ -1,8 +1,8 @@
 # 💫 About Me
 
-👋 Hi, I'm **Victor** — a **Computer Science student** and an aspiring **Data Engineer** passionate about transforming raw data into meaningful insights.
+👋 Hi, I'm **Victor** — a **Computer Science student** and an aspiring **Machine learning Engineer** passionate about transforming raw data into meaningful insights.
 
-⚙️ My journey is focused on **building efficient data pipelines**, **exploring cloud technologies**, and **learning how data drives impactful decisions**.
+⚙️ My journey is focused on **building efficient data pipelines and models**, **exploring cloud technologies**, and **learning how data drives impactful decisions**.
 
 📊 I enjoy creating **data visuals** that make complex ideas easy to understand and enjoyable to explore..
 
@@ -10,7 +10,7 @@
 
 ## 🚀 What I Do
 
-- 💾 Design and build **data workflows & ETL pipelines**  
+- 💾 Design and build **data workflows , ETL pipelines and  AI models**  
 - 📈 Develop interactive **visualizations and dashboards**  
 - 🧠 Explore **Big Data, Cloud Platforms, and Machine Learning**  
 - 💡 Share knowledge through **projects and open-source contributions**
