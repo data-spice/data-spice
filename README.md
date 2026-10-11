@@ -47,13 +47,16 @@
 
 
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=data-spice&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=data-spice&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=data-spice&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=data-spice&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=true&layout=compact)
+
 ---
 
 ### ✍️ Random Dev Quote
