@@ -53,7 +53,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=data-spice&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=data-spice&theme=dark&hide_border=true)
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=data-spice&theme=dark&hide_border=true) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-spice&theme=dark&hide_border=true&layout=compact)
 
