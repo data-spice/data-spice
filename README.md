@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm **Victor** — a **Computer Science student** and an aspiring **Machine learning Engineer** passionate about transforming raw data into meaningful insights.
+👋 Hi, I'm **Victor** — a **Machine learning Engineer and Security Researcher** passionate about transforming raw data into meaningful insights.
 
 ⚙️ My journey is focused on **building efficient data pipelines and models**, **exploring cloud technologies**, and **learning how data drives impactful decisions**.
 
